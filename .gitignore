@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data and generated experiment outputs
+.vscode/
+data/**
+!data/README.md
+!data/sample/**
+
+model_outcomes/**
+!model_outcomes/README.md
+
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.nc
