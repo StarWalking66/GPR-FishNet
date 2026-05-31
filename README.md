@@ -1,2 +1,2 @@
-# GPR-FishNET
+# GPR-FishNet
 主项目
